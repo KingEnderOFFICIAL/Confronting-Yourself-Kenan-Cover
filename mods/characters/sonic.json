@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-143,
+				-68
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Kenan Up"
+		},
+		{
+			"offsets": [
+				-193,
+				-82
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Kenan Left"
+		},
+		{
+			"offsets": [
+				-160,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Kenan Right"
+		},
+		{
+			"offsets": [
+				-197,
+				-79
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Kenan Down"
+		},
+		{
+			"offsets": [
+				-140,
+				-70
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Kenan Idle"
+		},
+		{
+			"offsets": [
+				-140,
+				-70
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Kenan Idle"
+		},
+		{
+			"offsets": [
+				70,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "Kenan oof"
+		},
+		{
+			"offsets": [
+				70,
+				20
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathLoop",
+			"loop": false,
+			"name": "Kenan oof"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Kenan",
+	"position": [
+		10,
+		160
+	],
+	"healthicon": "sonic",
+	"flip_x": true,
+	"healthbar_colors": [
+		98,
+		0,
+		123
+	],
+	"camera_position": [
+		250,
+		-55
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}
